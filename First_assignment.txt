@@ -1,7 +1,5 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
-
-
-
+  It helps to acquire new & more data for identifying the structure and sequential arrangements of biomolecules such as DNA, proteins etc.,
 
 
 
@@ -10,3 +8,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+    By applying these programing languages and other bioinfotmatics tools, the interaction between an available biomolecules and newly found biomolecules 
+    in order to predict more detailed informations about the defects/mutations in the sequence. 
